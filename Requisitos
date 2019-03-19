@@ -17,3 +17,4 @@ Opcion de activar que te manden notificaciones al movil de eventos que te puedan
 (Conectar minimo dos de nuestros dispositivos para enseñar el funcionamiento de la app)
 Un Usuario deberia poder: Poner un evento, valorar un evento, y borrar sus propios eventos.
 En el mapa debería mostrarse: Los distintos eventos de la zona, posición del usuario, radio de zona de busqueda.
+Quizas deberiamos pensar en la posibilidad de poder ver los eventos sin registrarse pero sin poder poner ni valorar otros eventos.
