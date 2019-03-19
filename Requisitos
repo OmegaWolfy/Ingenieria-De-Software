@@ -11,7 +11,9 @@ Eliminar usuarios ausentes mas de x meses.
 Varios temas generales(fiestas,actuaciones, etc)que el usuario pueda permitir ver solamente .(preferencias)
 Podria emplementar eventos futuros (se nesesitaria fecha y hora a la hora de crear evento).
 Opción de agregar a usuarios en "amigos" para compartir eventos que le interese,hablar sobre ellos,saber si esta interesada en algún evento activo
-Opcion de activar que te manden notificaciones al movil de eventos que te puedan interesar sin tener la app encendida  
+Opcion de activar que te manden notificaciones al movil de eventos que te puedan interesar sin tener la app encendida
 
 
 (Conectar minimo dos de nuestros dispositivos para enseñar el funcionamiento de la app)
+Un Usuario deberia poder: Poner un evento, valorar un evento, y borrar sus propios eventos.
+En el mapa debería mostrarse: Los distintos eventos de la zona, posición del usuario, radio de zona de busqueda.
