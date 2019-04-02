@@ -11,7 +11,7 @@ Podria emplementar eventos futuros (se nesesitaria fecha y hora a la hora de cre
 Borrado automatico de los eventos despues de la fecha de caducidad.
 Opción de agregar a usuarios en "amigos" para compartir eventos que le interese,hablar sobre ellos,saber si esta interesada en algún evento activo
 Acceso a tu ubicacion/poner tu ubi
-
+Recuperación de la cuenta (a partir del correo,que se mande un correo al usuario con su nombre y contraseña)
 
 (Conectar minimo dos de nuestros dispositivos para enseñar el funcionamiento de la app)
 Un Usuario deberia poder: Poner un evento, valorar un evento, y borrar sus propios eventos.
