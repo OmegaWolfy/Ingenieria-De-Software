@@ -1,9 +1,10 @@
 Para ir poniendo los requisitos que se nos vayan ocurriendo:
-Limite en el radio de la busqueda .
-Interfaz facil de usar .
+Limite en el radio de la busqueda.
+Interfaz facil de usar.
 Filtros que se ajusten a los gustos del usuario.
 Puntuacion de 1-5 con estrellas de como de bueno es el evento
 No se pueden eliminar eventos por el usuario .
+Borrado automatico de los eventos despues de la fecha de caducidad.
 Penalizar a usuarios que ponen eventos falsos.
 Tener algun tipo de cuenta premium de pago en que se le dan ciertos permisos al usuario.
 Como minimo en cada evento deberia de haber una foto,descripción y nombre del evento.
