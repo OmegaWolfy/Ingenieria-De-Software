@@ -6,3 +6,4 @@ Rafael Ortega Romero
 Rodrigo Diaz Rodriguez
 Edward Miel
 Francisco Javier Fernandez Martin
+Miguel Ángel Cano Hidalgo
