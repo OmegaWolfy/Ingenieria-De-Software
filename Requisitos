@@ -4,13 +4,13 @@ Interfaz facil de usar.
 Filtros que se ajusten a los gustos del usuario.
 Puntuacion de 1-5 con estrellas de como de bueno es el evento
 No se pueden eliminar eventos por el usuario .
-Borrado automatico de los eventos despues de la fecha de caducidad.
 Penalizar a usuarios que ponen eventos falsos.
 Tener algun tipo de cuenta premium de pago en que se le dan ciertos permisos al usuario.
 Como minimo en cada evento deberia de haber una foto,descripción y nombre del evento.
 Eliminar usuarios ausentes mas de x meses.
 Varios temas generales(fiestas,actuaciones, etc)que el usuario pueda permitir ver solamente .(preferencias)
 Podria emplementar eventos futuros (se nesesitaria fecha y hora a la hora de crear evento).
+Borrado automatico de los eventos despues de la fecha de caducidad.
 Opción de agregar a usuarios en "amigos" para compartir eventos que le interese,hablar sobre ellos,saber si esta interesada en algún evento activo
 Opcion de activar que te manden notificaciones al movil de eventos que te puedan interesar sin tener la app encendida
 
