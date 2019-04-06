@@ -1,19 +1,15 @@
 Para ir poniendo los requisitos que se nos vayan ocurriendo:
-Limite en el radio de la busqueda.
+
+Limite en el radio de la busqueda(500m).
 Interfaz facil de usar.
-Filtros que se ajusten a los gustos del usuario.
-Puntuacion de 1-5 con estrellas de como de bueno es el evento
+Puntuacion de 1-5 con estrellas de como de bueno es el evento.
 El usuario puede eliminar sus propios eventos.
 Penalizar a usuarios que ponen eventos falsos.
 Como minimo en cada evento deberia de haber una foto,descripción y nombre del evento.
 Varios temas generales(fiestas,actuaciones, etc)que el usuario pueda permitir ver solamente .(preferencias)
 Podria emplementar eventos futuros (se nesesitaria fecha y hora a la hora de crear evento).
 Borrado automatico de los eventos despues de la fecha de caducidad.
-Opción de agregar a usuarios en "amigos" para compartir eventos que le interese,hablar sobre ellos,saber si esta interesada en algún evento activo
-Acceso a tu ubicacion/poner tu ubi
-Recuperación de la cuenta (a partir del correo,que se mande un correo al usuario con su nombre y contraseña)
-
-(Conectar minimo dos de nuestros dispositivos para enseñar el funcionamiento de la app)
+Opción de compartir eventos que le interese,hablar sobre ellos,saber si esta interesada en algún evento activo.
+Recuperación de la cuenta (a partir del correo,que se mande un correo al usuario con su nombre y contraseña).
 Un Usuario deberia poder: Poner un evento, valorar un evento, y borrar sus propios eventos.
-En el mapa debería mostrarse: Los distintos eventos de la zona, posición del usuario, radio de zona de busqueda.
-Quizas deberiamos pensar en la posibilidad de poder ver los eventos sin registrarse pero sin poder poner ni valorar otros eventos.
+En el mapa debería mostrarse: Los distintos eventos de la zona, posición del usuario.
