@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+<head>
+
+<title>Crear evento</title>
+</head>
+
+
+
+
+<body  background="back.png"> 
+	<H2> 
+<form action="/my-handling-form-page" method="post">
+    <div>
+    <br>
+    <br>
+    <!-- esto es el nombre del evento -->
+        <label for="nombre"><center>Nombre:</center></label>
+        <center><input type="texto" id="nombre" /></center>
+    <br><br></div>
+    </div>
+    <!-- esto es la descripcion del evento -->
+    
+    
+    <label for="msg"><center>Descripción:</center></label>
+       <center> <textarea id="msg"></textarea> </center>
+    </div>
+ 
+    
+    
+    
+    
+    
+    <br>
+     <br>
+      <br>
+   <center> Tipo de evento:
+   <input type="text" list="items">
+  <!-- Lista de opciones -->
+  <datalist id="items">
+    <option value="Hosteleria"></option>
+    <option value="Trafico"></option>
+    <option value="Ocio"></option>
+  </datalist></center>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   <!-- esto es subir imagen -->
+   
+   <br>
+   <br>
+   <center> <form action="action" method="post" enctype="multipart/form-data">
+   Imagen del Evento
+   <br>
+          <input type="file" name="archivo" /><br />
+        <input type="submit" value="Subir" name="subir" />
+          </form></center>
+</H2>
+<br>
+<br>
+ <div class="button">
+        <center><button type="submit">Evento creado</button></center>
+    </div>
+</form>
+	
+</body>
+</html>
