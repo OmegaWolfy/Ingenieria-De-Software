@@ -1,0 +1,60 @@
+//CAMBIOS DE PLANES
+El profesor nos ha dicho que no creemos el proyecto desde cero basandonos en el ejemplo, si no que vayamos editando el que
+el nos ha proporcionado para que a si no haya ningun problema con la estructura que deberia tener el programa spring
+
+
+Dependiendo de si tenemos las biblotecas de springboot en eclipse oo, podemos usar el aneriormente citado o en caso contrario
+habríamos de descargarnos un entorno similar a eclipse que sea capaz de ejecutar nuestra aplicacion: https://spring.io/tools3/sts/all
+
+Una vez en el entorno, simplemente hacemos lo siguiente: File->Open proyects from file system , donde pone import source ponemos la
+ruta en la que se encuentre el proyecto que queramos abrir.
+
+En mi mas humilde recomendacion debemos descargarnos el proyecto base que nos dio el profesor para usarlo de referencia
+y el fichero springboot.zip que subi yo, que es el proyecto sobre el que trbajaremos Miguel, yo y algun heroe o heroina que
+se atreva a meterse en semejante berenjenal de codigo.
+
+///PARA LOS DE HTML
+
+Debeis tener el entorno para ejecutar la demo que nos dio el profesor https://github.com/JaimeUma/spring-demo , ahi le dais a download zip, extraeis
+y abris el proyecto como antes indique.
+
+Una vez haya cargado que puede tardar un poco, abris los siguientes paquetes:src/main/java ->com.example.demo ->DemoAplication.java
+y desde ese fichero RunAs->SpringBootApp
+
+Luego debeis abrir un navegador y acceder a la direccion localhost:3029 . A partir de aqui os indico las treas que deberiais de hacer.
+
+-Cambiar el background
+-Poder establecer una interfaz(solo averigur como, no crearla)
+
+Realmente por ahora con eso es sufciente, no obstante, todo conocimiento de html que obtengais aparte de esas dos cosas
+que he puesto sera mejor, mas no es lo unico que debemos editar de la pagina.
+
+GLHF 9/4/19
+
+Los archivos html del proyecto se encuentran en el package src/main/resources-> templates.
+Por otra parte me han comentado que la edicion de la pagina se debe hacer en CSS, los archivos css que creeis deberán estar
+en la carpeta static, en la misma ruta anterior.
+
+12/4/19
+
+//ARCHIVOS PENDIENTES
+
+JAVA:
+-UserController
+-Alerta(done)
+-AlertaRepository(done)
+-AlertaService(done)
+-AlertaController
+-Valorcion
+-ValoracionService
+-ValoracionRepository
+-ValoracionController
+
+
+HTML:
+todos excepto:
+-Crear evento
+-Implementacion del mapa
+
+
+
