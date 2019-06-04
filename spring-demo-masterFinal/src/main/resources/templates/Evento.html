@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Evento</title>
+<!-- jQuery library -->
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+	rel="stylesheet"></link>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div class="panel panel-default">
+		<div class="panel-heading">
+			<strong>Evento</strong>
+		</div>
+				
+					
+		 <div>
+    <br>
+    <br>
+    <!-- esto es el nombre del evento -->
+      <center>  <label for="nombre"><center>Nombre:</center></label>
+        <center><input type="texto" id="nombre" /></center>
+    <br><br></center></div>
+    </div>
+     <br>
+    <br>
+		<div>
+	<center>	<label for="msg">Descripción:</center></label>
+       <center> <textarea id="msg"></textarea> </center>
+    </div>
+    
+     <br>
+    <br>
+    <div>
+      <center> Tipo de evento:
+   <input type="text" list="items">
+  <!-- Lista de opciones -->
+  <datalist id="items">
+    <option value="Hosteleria"></option>
+    <option value="Trafico"></option>
+    <option value="Ocio"></option>
+  </datalist></center>
+		
+		</div>
+		
+		 <br>
+    <br>
+		 <center> <form action="action" method="post" enctype="multipart/form-data">
+   Imagen del Evento
+   <br>
+          <input type="file" name="archivo" /><br /> 
+          </form></center>
+		 <br>
+    <br>
+		
+		
+		<div class="panel-footer"> 
+		<a class="btn btn-sm btn-primary" th:href="@{/interusu}">Evento Creado</a>
+			<a class="btn btn-sm btn-primary" th:href="@{/interusu}">Atrás</a>
+		</div>
+	</div>
+</body>
+</html>
